@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_shell\bin\Debug\IIS_backdoor_shell.exe.config
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_shell\bin\Debug\IIS_backdoor_shell.exe
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_shell\bin\Debug\IIS_backdoor_shell.pdb
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_shell\obj\Debug\IIS_backdoor_shell.Properties.Resources.resources
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_shell\obj\Debug\IIS_backdoor_shell.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_shell\obj\Debug\IIS_backdoor_shell.exe
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_shell\obj\Debug\IIS_backdoor_shell.pdb
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_shell\obj\Debug\IIS_backdoor_shell.Form1.resources
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_shell\obj\Debug\IIS_backdoor_shell.csprojAssemblyReference.cache

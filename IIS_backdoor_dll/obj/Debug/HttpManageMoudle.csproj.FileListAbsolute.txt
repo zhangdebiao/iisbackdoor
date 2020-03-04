@@ -1,0 +1,4 @@
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_dll\bin\Debug\HttpManageMoudle.dll
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_dll\bin\Debug\HttpManageMoudle.pdb
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_dll\obj\Debug\HttpManageMoudle.dll
+C:\Users\dell\Desktop\dotnetcode\IIS_backdoor\IIS_backdoor_dll\obj\Debug\HttpManageMoudle.pdb
